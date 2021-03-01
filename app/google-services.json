@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "911228091711",
+    "project_id": "happynote-40420",
+    "storage_bucket": "happynote-40420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911228091711:android:96629ded491a39a0c0e78a",
+        "android_client_info": {
+          "package_name": "com.choi_study.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911228091711-m242ar8fccko3d3tr1bn6us5ac1aoi3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.choi_study.myapplication",
+            "certificate_hash": "179bdfdd2797aa578711ba726810bbb4361ceb2c"
+          }
+        },
+        {
+          "client_id": "911228091711-59aaqj10f1u8e9bjmuujioa43hlfekks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6sktP2aiuBIXqbmE9YLKo4EKsrb7JmtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911228091711-59aaqj10f1u8e9bjmuujioa43hlfekks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
